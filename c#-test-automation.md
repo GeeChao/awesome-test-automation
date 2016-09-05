@@ -102,7 +102,7 @@ technology on Windows Phone, iOS and Android
 * [**Temacity**](https://www.jetbrains.com/teamcity/) is a free and simple Build and Continuous integration server. You can 
 run the C# tests just out of the box
 * [Team Foundation Server] ― well... the marketing guys say that it can also build something for you
-
+* [Octopus](https://octopus.com): Community edition is free for small teams, even for commercial use. It allows you to deploy up to five projects to up to ten target machines, and is limited to five users
 
 ## Reporting
 
@@ -124,7 +124,8 @@ Visual Studio Professional is became free for small teams.
 
 * [Json.NET](https://www.nuget.org/packages/Newtonsoft.Json/) is a popular high-performance JSON framework for .NET
 * [RestSharp](https://www.nuget.org/packages/RestSharp/) ― simple REST and HTTP API Client
-
+* [NPIO](https://www.nuget.org/packages/NPOI/) - Excel operation
+* [Faker.Net](https://www.nuget.org/packages/Faker.Net) - Easily generate fake data: names, addresses, phone numbers, etc.
 # Resources
 Where to discover new libraries, information, tools, etc.
 
